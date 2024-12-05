@@ -1,10 +1,10 @@
 baseurl: "/palimpsesto-web" # the subpath of your site, e.g. /blog
 url: "https://evidenciavisual.org" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
-title: "Palimpsesto -  Plataforma de gestión urbana"
-email: "themefisher@gmail.com"
-phone: "+21 123 456 5523"
-address: "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
-author: themefisher
+title: "Palimpsesto -  Plataforma digital para la gestión de proyectos de patrimonio urbano"
+email: "contacto@palimpsesto.org"
+phone: "+569 89706629"
+address: "Cristóbal Colón 4835, Las Condes, Santiago"
+author: Evidencia Visual
 description: >- # this means to ignore newlines
   Palimpsesto - Palimpsesto es una plataforma digital para la gestión de proyectos de intervención en patrimonio, que facilita la preservación, monitoreo e integración urbana. Permite centralizar los datos de captura, estado de conservación y documentación, y superponerlos en un ambiente digital tridimensional con datos de terceros
 logo: "/assets/images/logo.png"
